@@ -10,7 +10,7 @@
 
 
 
-
+# Ashif Chnages
 # Function to calculate the binary search element
 def binary_search(list, num):
     lower = 0
